@@ -1,1 +1,4 @@
 include/* linguist-vendored
+include/** linguist-vendored
+include/KHR/* linguist-vendored
+*.h linguist-vendored
