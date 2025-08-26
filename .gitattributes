@@ -1,5 +1,5 @@
 include/* linguist-vendored
-common/* linguist-vendored
+Common/* linguist-vendored
 include/** linguist-vendored
 include/KHR/* linguist-vendored
 *.h linguist-vendored
